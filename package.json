@@ -1,6 +1,6 @@
 {
     "name": "tgotg-launcher",
-    "preductname": "Tgotg Launcher",
+    "preductname": "Tgotg-Launcher",
     "version": "1.0.3",
     "description": "Launcher Mincraft pour le serveur Tgotg",
     "main": "src/app.js",
