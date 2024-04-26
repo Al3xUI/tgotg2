@@ -1,13 +1,13 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "tgotg-launcher",
+    "preductname": "Tgotg Launcher",
     "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "description": "Launcher Mincraft pour le serveur Tgotg",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
-        "email": "contact@luuxis.fr",
-        "url": "https://github.com/luuxis"
+        "name": "Alex",
+        "email": "",
+        "url": "https://github.com/Al3xUI"
     },
     "url": "https://www.crystalskymc.fr/html",
     "scripts": {
